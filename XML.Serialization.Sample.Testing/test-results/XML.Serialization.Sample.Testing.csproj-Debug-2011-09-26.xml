@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2011-09-26T00:03:38</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-09-26T00:04:09</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>1</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-09-26T00:17:37</TestDate>
+      <Status>Success</Status>
+      <TotalFailures>0</TotalFailures>
+      <TotalSuccess>1</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+    </UnitTestResult>
+  </Results>
+  <Tests>
+    <TestRecord Name="XML">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2011-09-26T00:03:38</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-09-26T00:04:09</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>1</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-09-26T00:17:37</TestDate>
+          <Status>Success</Status>
+          <TotalFailures>0</TotalFailures>
+          <TotalSuccess>1</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="Serialization">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2011-09-26T00:03:38</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-09-26T00:04:09</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>1</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-09-26T00:17:37</TestDate>
+              <Status>Success</Status>
+              <TotalFailures>0</TotalFailures>
+              <TotalSuccess>1</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+            </UnitTestResult>
+          </Results>
+          <Tests>
+            <TestRecord Name="Sample">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-09-26T00:03:38</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-09-26T00:04:09</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-09-26T00:17:37</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Testing">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-09-26T00:03:38</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Child test failed</Message>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-09-26T00:04:09</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Child test failed</Message>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-09-26T00:17:37</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests>
+                    <TestRecord Name="EntidadeParaSerializarTest">
+                      <Results>
+                        <UnitTestResult>
+                          <TestDate>2011-09-26T00:03:38</TestDate>
+                          <Status>Failure</Status>
+                          <TotalFailures>1</TotalFailures>
+                          <TotalSuccess>0</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                          <Message>Child test failed</Message>
+                        </UnitTestResult>
+                        <UnitTestResult>
+                          <TestDate>2011-09-26T00:04:09</TestDate>
+                          <Status>Failure</Status>
+                          <TotalFailures>1</TotalFailures>
+                          <TotalSuccess>0</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                          <Message>Child test failed</Message>
+                        </UnitTestResult>
+                        <UnitTestResult>
+                          <TestDate>2011-09-26T00:06:33</TestDate>
+                          <Status>Failure</Status>
+                          <TotalFailures>1</TotalFailures>
+                          <TotalSuccess>0</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                          <Message>Child test failed</Message>
+                        </UnitTestResult>
+                        <UnitTestResult>
+                          <TestDate>2011-09-26T00:09:02</TestDate>
+                          <Status>Failure</Status>
+                          <TotalFailures>1</TotalFailures>
+                          <TotalSuccess>0</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                          <Message>Child test failed</Message>
+                        </UnitTestResult>
+                        <UnitTestResult>
+                          <TestDate>2011-09-26T00:11:40</TestDate>
+                          <Status>Failure</Status>
+                          <TotalFailures>1</TotalFailures>
+                          <TotalSuccess>0</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                          <Message>Child test failed</Message>
+                        </UnitTestResult>
+                        <UnitTestResult>
+                          <TestDate>2011-09-26T00:17:37</TestDate>
+                          <Status>Success</Status>
+                          <TotalFailures>0</TotalFailures>
+                          <TotalSuccess>1</TotalSuccess>
+                          <TotalIgnored>0</TotalIgnored>
+                          <Time />
+                        </UnitTestResult>
+                      </Results>
+                      <Tests>
+                        <TestRecord Name="ShouldSerializeObject">
+                          <Results>
+                            <UnitTestResult>
+                              <TestDate>2011-09-26T00:03:38</TestDate>
+                              <Status>Failure</Status>
+                              <TotalFailures>1</TotalFailures>
+                              <TotalSuccess>0</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>System.NullReferenceException : Object reference not set to an instance of an object</Message>
+                              <StackTrace>  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteListContent (System.Object container, System.Xml.Serialization.TypeData listType, System.Xml.Serialization.ListMap map, System.Object ob, System.Text.StringBuilder targetString) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteMemberElement (System.Xml.Serialization.XmlTypeMapElementInfo elem, System.Object memberValue) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteElementMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElementElements (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElement (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObject (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp, Boolean isNullable, Boolean needType, Boolean writeWrappingElem) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteRoot (System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Object o, System.Xml.Serialization.XmlSerializationWriter writer) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Xml.XmlWriter writer, System.Object o, System.Xml.Serialization.XmlSerializerNamespaces namespaces) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-09-26T00:04:09</TestDate>
+                              <Status>Failure</Status>
+                              <TotalFailures>1</TotalFailures>
+                              <TotalSuccess>0</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>System.NullReferenceException : Object reference not set to an instance of an object</Message>
+                              <StackTrace>  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteListContent (System.Object container, System.Xml.Serialization.TypeData listType, System.Xml.Serialization.ListMap map, System.Object ob, System.Text.StringBuilder targetString) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteMemberElement (System.Xml.Serialization.XmlTypeMapElementInfo elem, System.Object memberValue) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteElementMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElementElements (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElement (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObject (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp, Boolean isNullable, Boolean needType, Boolean writeWrappingElem) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteRoot (System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Object o, System.Xml.Serialization.XmlSerializationWriter writer) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Xml.XmlWriter writer, System.Object o, System.Xml.Serialization.XmlSerializerNamespaces namespaces) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-09-26T00:06:33</TestDate>
+                              <Status>Failure</Status>
+                              <TotalFailures>1</TotalFailures>
+                              <TotalSuccess>0</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>System.NullReferenceException : Object reference not set to an instance of an object</Message>
+                              <StackTrace>  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteListContent (System.Object container, System.Xml.Serialization.TypeData listType, System.Xml.Serialization.ListMap map, System.Object ob, System.Text.StringBuilder targetString) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteMemberElement (System.Xml.Serialization.XmlTypeMapElementInfo elem, System.Object memberValue) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteElementMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElementElements (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElement (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObject (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp, Boolean isNullable, Boolean needType, Boolean writeWrappingElem) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteRoot (System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Object o, System.Xml.Serialization.XmlSerializationWriter writer) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Xml.XmlWriter writer, System.Object o, System.Xml.Serialization.XmlSerializerNamespaces namespaces) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-09-26T00:09:02</TestDate>
+                              <Status>Failure</Status>
+                              <TotalFailures>1</TotalFailures>
+                              <TotalSuccess>0</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>System.NullReferenceException : Object reference not set to an instance of an object</Message>
+                              <StackTrace>  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteListContent (System.Object container, System.Xml.Serialization.TypeData listType, System.Xml.Serialization.ListMap map, System.Object ob, System.Text.StringBuilder targetString) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteMemberElement (System.Xml.Serialization.XmlTypeMapElementInfo elem, System.Object memberValue) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteElementMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElementElements (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElement (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObject (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp, Boolean isNullable, Boolean needType, Boolean writeWrappingElem) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteRoot (System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Object o, System.Xml.Serialization.XmlSerializationWriter writer) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Xml.XmlWriter writer, System.Object o, System.Xml.Serialization.XmlSerializerNamespaces namespaces) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-09-26T00:11:40</TestDate>
+                              <Status>Failure</Status>
+                              <TotalFailures>1</TotalFailures>
+                              <TotalSuccess>0</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>System.NullReferenceException : Object reference not set to an instance of an object</Message>
+                              <StackTrace>  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteListContent (System.Object container, System.Xml.Serialization.TypeData listType, System.Xml.Serialization.ListMap map, System.Object ob, System.Text.StringBuilder targetString) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteMemberElement (System.Xml.Serialization.XmlTypeMapElementInfo elem, System.Object memberValue) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteElementMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElementElements (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObjectElement (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteObject (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob, System.String element, System.String namesp, Boolean isNullable, Boolean needType, Boolean writeWrappingElem) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializationWriterInterpreter.WriteRoot (System.Object ob) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Object o, System.Xml.Serialization.XmlSerializationWriter writer) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Xml.Serialization.XmlSerializer.Serialize (System.Xml.XmlWriter writer, System.Object o, System.Xml.Serialization.XmlSerializerNamespaces namespaces) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                              <ConsoleOutput />
+                              <ConsoleError />
+                            </UnitTestResult>
+                            <UnitTestResult>
+                              <TestDate>2011-09-26T00:17:37</TestDate>
+                              <Status>Success</Status>
+                              <TotalFailures>0</TotalFailures>
+                              <TotalSuccess>1</TotalSuccess>
+                              <TotalIgnored>0</TotalIgnored>
+                              <Time />
+                              <Message>Test successful
+
+Execution time: 0.09ms</Message>
+                              <ConsoleOutput>﻿&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;Entidade xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;description&gt;Class nova&lt;/description&gt;&lt;/Entidade&gt;
+</ConsoleOutput>
+                              <ConsoleError />
+                            </UnitTestResult>
+                          </Results>
+                          <Tests />
+                        </TestRecord>
+                      </Tests>
+                    </TestRecord>
+                  </Tests>
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>
