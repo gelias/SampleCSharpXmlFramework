@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML.Serialziation.Sample", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML.Serialization.Sample.Testing", "XML.Serialization.Sample.Testing\XML.Serialization.Sample.Testing.csproj", "{BF9DC0E7-4209-44DC-88FA-D1954CA2C8DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST.Connection.Sample", "REST.Connection.Sample\REST.Connection.Sample.csproj", "{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST.Connection.Sample.Testing", "REST.Connection.Sample.Testing\REST.Connection.Sample.Testing.csproj", "{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -16,6 +20,18 @@ Global
 		{9A3B028F-06F1-4C6F-9341-5D978F7F1379}.Debug|x86.Build.0 = Debug|Any CPU
 		{9A3B028F-06F1-4C6F-9341-5D978F7F1379}.Release|x86.ActiveCfg = Release|Any CPU
 		{9A3B028F-06F1-4C6F-9341-5D978F7F1379}.Release|x86.Build.0 = Release|Any CPU
+		{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}.Debug|x86.Build.0 = Debug|Any CPU
+		{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}.Release|x86.ActiveCfg = Release|Any CPU
+		{ADB24730-4F84-4FDD-AE82-E37EDF7051A4}.Release|x86.Build.0 = Release|Any CPU
+		{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}.Debug|x86.Build.0 = Debug|Any CPU
+		{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}.Release|x86.ActiveCfg = Release|Any CPU
+		{BCC2D06D-41FB-41AA-8BAE-2552FBC73070}.Release|x86.Build.0 = Release|Any CPU
 		{BF9DC0E7-4209-44DC-88FA-D1954CA2C8DD}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{BF9DC0E7-4209-44DC-88FA-D1954CA2C8DD}.Debug|x86.Build.0 = Debug|Any CPU
 		{BF9DC0E7-4209-44DC-88FA-D1954CA2C8DD}.Default|Any CPU.ActiveCfg = Debug|Any CPU
