@@ -11,8 +11,8 @@ namespace REST.Connection.Sample.Testing
 		public void shouldConnectSuccessfullyRESTService()
 		{
 			var adapter = new RestAdapter();
-			string response = adapter.connect("http://www.terra.com.br");
-			Assert.IsTrue(response.Contains("html"), "Should have html tag");
+			string response = adapter.connect("https://api.twitter.com/1/statuses/home_timeline.json?");
+			Assert.IsTrue(response.Contains("Could not authenticate you"), "Should have html tag");
 		}
 			
 	}

@@ -10,12 +10,18 @@ namespace REST.Connection.Sample
 		public string connect (string url)
 		{
 			string responseAsString = string.Empty;
-			HttpWebRequest request = WebRequest.Create(url) as HttpWebRequest;
-			using (HttpWebResponse response = request.GetResponse() as HttpWebResponse)  
-			{  
-			    StreamReader reader = new StreamReader(response.GetResponseStream());  
-			    responseAsString = reader.ReadToEnd();
-			}  
+			HttpWebResponse response = null;
+			try{
+				HttpWebRequest request = WebRequest.Create(url) as HttpWebRequest;
+				request.AllowAutoRedirect = false;
+				response = (HttpWebResponse)request.GetResponse();
+			}
+			catch(WebException we)
+			{
+				 response = ((HttpWebResponse)we.Response);
+			}
+			StreamReader reader = new StreamReader(response.GetResponseStream());  
+			responseAsString = reader.ReadToEnd();
 			return responseAsString;
 		}
 	}
