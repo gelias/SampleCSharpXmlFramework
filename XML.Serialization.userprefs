@@ -1,9 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="REST.Connection.Sample.Testing/RESTAdapterTest.cs">
+    <Files>
+      <File FileName="REST.Connection.Sample.Testing/RESTAdapterTest.cs" Line="8" Column="13" />
+      <File FileName="REST.Connection.Sample/RestAdapter.cs" Line="25" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True" selected="True" />
+        <State expanded="True">
+          <Node name="REST.Connection.Sample" expanded="True" />
+          <Node name="REST.Connection.Sample.Testing" expanded="True" />
+          <Node name="XML.Serialziation.Sample" expanded="True" selected="True" />
+        </State>
       </Pad>
       <Pad Id="ClassPad">
         <State expanded="True">
@@ -18,12 +26,14 @@
       </Pad>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State expanded="True">
-          <Node name="REST.Connection.Sample.Testing" expanded="True" selected="True">
+          <Node name="REST.Connection.Sample.Testing" expanded="True">
             <Node name="REST" expanded="True">
               <Node name="Connection" expanded="True">
                 <Node name="Sample" expanded="True">
                   <Node name="Testing" expanded="True">
-                    <Node name="RESTAdapterTest" expanded="True" />
+                    <Node name="RESTAdapterTest" expanded="True">
+                      <Node name="shouldConnectSuccessfullyRESTService" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
@@ -38,6 +48,10 @@
       <Breakpoint file="/Users/gelias/workspace/dotnet/XML.Serialization/XML.Serialization.Sample.Testing/EntidadeParaSerializarTest.cs" line="19" />
       <Breakpoint file="/Users/gelias/workspace/dotnet/XML.Serialization/XML.Serialization.Sample.Testing/EntidadeParaSerializarTest.cs" line="28" />
       <Breakpoint file="/Users/gelias/workspace/dotnet/SampleCSharpXmlFramework/REST.Connection.Sample.Testing/RESTAdapterTest.cs" line="15" />
+      <Breakpoint file="/Users/gelias/workspace/dotnet/SampleCSharpXmlFramework/REST.Connection.Sample.Testing/RESTAdapterTest.cs" line="14" />
+      <Breakpoint file="/Users/gelias/workspace/dotnet/SampleCSharpXmlFramework/REST.Connection.Sample/RestAdapter.cs" line="21" />
+      <Breakpoint file="/Users/gelias/workspace/dotnet/SampleCSharpXmlFramework/REST.Connection.Sample/RestAdapter.cs" line="24" />
+      <Breakpoint file="/Users/gelias/workspace/dotnet/SampleCSharpXmlFramework/REST.Connection.Sample/RestAdapter.cs" line="16" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
